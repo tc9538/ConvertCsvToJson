@@ -1,0 +1,13 @@
+C:\Users\trucc\source\repos\ImportCsvToJson\ImportCsvToJson\bin\Debug\netcoreapp3.1\ImportCsvToJson.exe
+C:\Users\trucc\source\repos\ImportCsvToJson\ImportCsvToJson\bin\Debug\netcoreapp3.1\ImportCsvToJson.deps.json
+C:\Users\trucc\source\repos\ImportCsvToJson\ImportCsvToJson\bin\Debug\netcoreapp3.1\ImportCsvToJson.runtimeconfig.json
+C:\Users\trucc\source\repos\ImportCsvToJson\ImportCsvToJson\bin\Debug\netcoreapp3.1\ImportCsvToJson.runtimeconfig.dev.json
+C:\Users\trucc\source\repos\ImportCsvToJson\ImportCsvToJson\bin\Debug\netcoreapp3.1\ImportCsvToJson.dll
+C:\Users\trucc\source\repos\ImportCsvToJson\ImportCsvToJson\bin\Debug\netcoreapp3.1\ImportCsvToJson.pdb
+C:\Users\trucc\source\repos\ImportCsvToJson\ImportCsvToJson\obj\Debug\netcoreapp3.1\ImportCsvToJson.csprojAssemblyReference.cache
+C:\Users\trucc\source\repos\ImportCsvToJson\ImportCsvToJson\obj\Debug\netcoreapp3.1\ImportCsvToJson.AssemblyInfoInputs.cache
+C:\Users\trucc\source\repos\ImportCsvToJson\ImportCsvToJson\obj\Debug\netcoreapp3.1\ImportCsvToJson.AssemblyInfo.cs
+C:\Users\trucc\source\repos\ImportCsvToJson\ImportCsvToJson\obj\Debug\netcoreapp3.1\ImportCsvToJson.csproj.CoreCompileInputs.cache
+C:\Users\trucc\source\repos\ImportCsvToJson\ImportCsvToJson\obj\Debug\netcoreapp3.1\ImportCsvToJson.dll
+C:\Users\trucc\source\repos\ImportCsvToJson\ImportCsvToJson\obj\Debug\netcoreapp3.1\ImportCsvToJson.pdb
+C:\Users\trucc\source\repos\ImportCsvToJson\ImportCsvToJson\obj\Debug\netcoreapp3.1\ImportCsvToJson.genruntimeconfig.cache
